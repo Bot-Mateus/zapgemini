@@ -1,0 +1,2 @@
+# zapgemini
+ Este projeto visa integrar a inteligência artificial Gemini ao WhatsApp do usuário comum, permitindo aos usuários fazerem perguntas de forma simples e receberem respostas rápidas e precisas da IA. 🤖📱  Resumindo, sua tia pode usar o Gemini para pedir uma receita de bolo ou uma ajuda com a mensagem de bom dia. O objetivo é usar uma plataforma altamente usada e conhecida para democratizar o uso da IA.  Facilitem o acesso do Gemini para seus avós e tios que têm dificuldades com essas "coisas de tecnologia", basta seguir esses passos. 👵👴
