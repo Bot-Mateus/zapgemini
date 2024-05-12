@@ -36,14 +36,14 @@ Aqui teremos alguns exemplos de uso da aplicação, mostrando como ela pode ser 
 ![Criar mensagens](https://github.com/Bot-Mateus/zapgemini/blob/main/Imagens%20dos%20Testes%20-%20zapgemini/texto-base-imagem.png)
 ## Índice
 
--   [Rodar a Aplicação](https://github.com/Bot-Mateus/Bot-Mateus/edit/main/README.md#rodar-a-aplica%C3%A7%C3%A3o)
--   [Funcionamento do Programa](https://github.com/Bot-Mateus/Bot-Mateus/edit/main/README.md#funcionamento-do-programa)
-    -   [Módulo main.py](https://github.com/Bot-Mateus/Bot-Mateus/edit/main/README.md#m%C3%B3dulo-mainpy)
-    -   [Módulo gemini_response.py](https://github.com/Bot-Mateus/Bot-Mateus/edit/main/README.md#m%C3%B3dulo-gemini_responsepy)
-    -   [Módulo whatsapp_user_automator.py](https://github.com/Bot-Mateus/Bot-Mateus/edit/main/README.md#m%C3%B3dulo-whatsapp_user_automatorpy)
-    -   [Módulo selenium_utils.py](https://github.com/Bot-Mateus/Bot-Mateus/edit/main/README.md#m%C3%B3dulo-selenium_utilspy)
--   [Melhorias Futuras](https://github.com/Bot-Mateus/Bot-Mateus/edit/main/README.md#melhorias-futuras)
--   [Como me encontrar](https://github.com/Bot-Mateus/Bot-Mateus/edit/main/README.md#como-me-encontrar)
+-   [Rodar a Aplicação](#rodar-a-aplica%C3%A7%C3%A3o)
+-   [Funcionamento do Programa](#funcionamento-do-programa)
+    -   [Módulo main.py](#m%C3%B3dulo-mainpy)
+    -   [Módulo gemini_response.py](#m%C3%B3dulo-gemini_responsepy)
+    -   [Módulo whatsapp_user_automator.py](#m%C3%B3dulo-whatsapp_user_automatorpy)
+    -   [Módulo selenium_utils.py](#m%C3%B3dulo-selenium_utilspy)
+-   [Melhorias Futuras](#melhorias-futuras)
+-   [Como me encontrar](#como-me-encontrar)
 
 ## Rodar a Aplicação
 No momento, o número utilizado no projeto não é público, mas caso você queira utilizar o Gemini no seu WhatsApp, pode seguir esses passos de instalação:
