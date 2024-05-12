@@ -1,0 +1,7 @@
+{
+  "gemini": {
+    "bot_ativo": false,
+    "browser": null,
+    "autenticacao": "QRCODE"
+  }
+}

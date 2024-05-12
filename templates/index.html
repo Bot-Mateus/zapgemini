@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+    <title>ZapGemini</title>
+</head>
+<body>
+    <div class="container">
+        <h1>ZapGemini</h1>
+        <label class="toggle">
+            <input type="checkbox" id="toggle-button" onclick="toggleAI()" data-username="{{ username }}">
+            <span class="slider"></span>
+        </label>
+
+        <a class="dashboard-card-qrcode">
+            <h3 id="qrCodeLabel">QrCode</h3>
+            <div class="qrcode-container">
+                <img id="qrCodeImage" src="{{ url_for('static', filename='qrcodes/' + username + '_screenshot_qr_code_regiao.png') }}" alt="QR Code">
+                <br>
+                <button id="connectButton" onclick="toggleConnection('{{ username }}')">Conectar com número de celular</button>
+            </div>
+            <p id="qrCodeDescription">O QrCode para acessar seu WhatsApp irá aparecer aqui, apenas se for necessário</p>
+        </a>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
