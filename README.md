@@ -16,6 +16,8 @@ Facilitem o acesso do Gemini para seus avós e tios que têm dificuldades com es
 
 *obs: infelizmente não tenho dinheiro para bancar os gastos com hospedagem e uso da API Gemini, se não era só chamar no zap...* 🥹💸
 
+---
+
 ## Funcionalidades Principais
 
 -   **Benefício Principal:** A integração da IA Gemini com o WhatsApp facilita o acesso a uma IA avançada para pessoas mais velhas e leigas em tecnologia. Ao utilizar uma plataforma familiar como o WhatsApp, os usuários podem interagir com a IA de maneira intuitiva e conveniente, sem a necessidade de aprender novas interfaces ou tecnologias complicadas. 📈💬
@@ -23,17 +25,20 @@ Facilitem o acesso do Gemini para seus avós e tios que têm dificuldades com es
 -   **Respostas Rápidas:** As respostas são geradas instantaneamente, proporcionando uma experiência fluida ao usuário. 🚀⏱️
 -   **Suporte a Diferentes Perguntas:** A inteligência artificial é capaz de lidar com uma variedade de perguntas, incluindo imagens e fornecer respostas relevantes. 🖼️🔍
 
+---
+
 # Exemplos de uso
 Aqui teremos alguns exemplos de uso da aplicação, mostrando como ela pode ser útil no seu dia dia.
 
-### Ajuda com legenda para o Instagram
-![Legenda para Instagram](https://github.com/Bot-Mateus/zapgemini/blob/main/Imagens%20dos%20Testes%20-%20zapgemini/legenda-instagram.jpg)
-### Criar resumos
-![Criar resumos](https://github.com/Bot-Mateus/zapgemini/blob/main/Imagens%20dos%20Testes%20-%20zapgemini/resumo-filme.jpg)
-### Transcrever e interpretar imagens
-![Transcrever imagens](https://github.com/Bot-Mateus/zapgemini/blob/main/Imagens%20dos%20Testes%20-%20zapgemini/transcrever-imagem.jpg)
-### Criar mensagens com base em imagens
-![Criar mensagens](https://github.com/Bot-Mateus/zapgemini/blob/main/Imagens%20dos%20Testes%20-%20zapgemini/texto-base-imagem.png)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Bot-Mateus/zapgemini/blob/main/Imagens%20dos%20Testes%20-%20zapgemini/legenda-instagram.jpg" alt="Legenda para Instagram" width="200" style="height: 500px;"/>
+    <img src="https://github.com/Bot-Mateus/zapgemini/blob/main/Imagens%20dos%20Testes%20-%20zapgemini/resumo-filme.jpg" alt="Criar resumos" width="200" style="height: 500px;"/>
+    <img src="https://github.com/Bot-Mateus/zapgemini/blob/main/Imagens%20dos%20Testes%20-%20zapgemini/transcrever-imagem.jpg" alt="Transcrever imagens" width="200" style="height: 500px;"/>
+    <img src="https://github.com/Bot-Mateus/zapgemini/blob/main/Imagens%20dos%20Testes%20-%20zapgemini/texto-base-imagem.png" alt="Criar mensagens" width="200" style="height: 500px;"/>
+</div>
+
+---
+
 ## Índice
 
 -   [Rodar a Aplicação](#rodar-a-aplica%C3%A7%C3%A3o)
